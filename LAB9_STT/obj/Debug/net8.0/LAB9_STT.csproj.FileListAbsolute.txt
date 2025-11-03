@@ -1,0 +1,14 @@
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.AssemblyInfoInputs.cache
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.AssemblyInfo.cs
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.csproj.CoreCompileInputs.cache
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\bin\Debug\net8.0\LAB9_STT.exe
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\bin\Debug\net8.0\LAB9_STT.deps.json
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\bin\Debug\net8.0\LAB9_STT.runtimeconfig.json
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\bin\Debug\net8.0\LAB9_STT.dll
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\bin\Debug\net8.0\LAB9_STT.pdb
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.dll
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\refint\LAB9_STT.dll
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.pdb
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\LAB9_STT.genruntimeconfig.cache
+C:\Users\Manoj\source\repos\LAB9_STT\LAB9_STT\obj\Debug\net8.0\ref\LAB9_STT.dll
